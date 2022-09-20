@@ -1,7 +1,4 @@
 
-<h3> Deploy: <a href="https://fillword-test-lhgb3uzi4-vskorop.vercel.app/"> (╮°-°)╮┳━━┳ ( ╯°□°)╯ ┻━━┻</a></h3>
-
-<hr/>
 
 ```
 Установка: 
